@@ -10,9 +10,9 @@
     "license": "IT",
     "repository": {
       "type": "git",
-      "url": "https://github.com/blankman90/inery-testnet-faucet-tasks"
+      "url": "https://github.com/Blankman90/inery-testnet-faucet-tasks"
     },
-    "homepage": "https://github.com/blankman90/inery-testnet-faucet-tasks",
+    "homepage": "https://github.com/Blankman90/inery-testnet-faucet-tasks",
     "dependencies": {
       "ineryjs": "github:inery-blockchain/ineryjs",
       "dotenv": "^16.0.3"
