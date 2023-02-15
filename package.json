@@ -1,0 +1,20 @@
+{
+    "name": "call_test_blankman",
+    "version": "1.0.0",
+    "description": "A sample rpc transaction for inery blockchain",
+    "main": "./Call_Transaction.mjs",
+    "scripts": {
+      "Call_Transaction": "node ./Call_Transaction.mjs"
+    },
+    "author": "blankman",
+    "license": "IT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/blankman90/inery-testnet-faucet-tasks"
+    },
+    "homepage": "https://github.com/blankman90/inery-testnet-faucet-tasks",
+    "dependencies": {
+      "ineryjs": "github:inery-blockchain/ineryjs",
+      "dotenv": "^16.0.3"
+    }
+}
